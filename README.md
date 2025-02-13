@@ -1,5 +1,10 @@
 <!-- markdownlint-disable MD041 -->
-![Welcome to the official GitHub profile of @sainikhith](https://github.com/sainikhith/sainikhith/blob/main/ledprofile.gif?raw=true)
+<!-- ![Welcome to the official GitHub profile of @sainikhith](https://github.com/sainikhith/sainikhith/blob/main/ledprofile.gif?raw=true) -->
+<p align="center">
+  <img src="https://github.com/sainikhith/sainikhith/raw/main/ledprofile.gif?raw=true" 
+       alt="Welcome to the official GitHub profile of @sainikhith" 
+       style="border: 3px solid #3498db; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2); width: 150px;">
+</p>
 
 ### Elsewhere on the internet
 
