@@ -1,9 +1,7 @@
-<!-- markdownlint-disable MD041 -->
-<!-- ![Welcome to the official GitHub profile of @sainikhith](https://github.com/sainikhith/sainikhith/blob/main/ledprofile.gif?raw=true) -->
 <p align="center">
   <img src="https://github.com/sainikhith/sainikhith/raw/main/ledprofile.gif?raw=true" 
        alt="Welcome to the official GitHub profile of @sainikhith" 
-       style="border: 3px solid #3498db; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2); width: 150px;">
+       style="border: 5px solid red; border-radius: 10px; box-shadow: 20px 20px 100px rgba(0, 0, 0, 0.2); width: 125px;">
 </p>
 
 ### Elsewhere on the internet
@@ -11,7 +9,7 @@
 [![LinkedIn](https://user-images.githubusercontent.com/282759/84680162-4161a300-af00-11ea-912c-8f32e5cc1676.png)](https://linkedin.com/in/srisainikhith)
 [![Twitter](https://user-images.githubusercontent.com/282759/84680160-40c90c80-af00-11ea-8390-bb86858c5fa5.png)](https://x.com/srisainikhith)&nbsp;
 
-### About Ben
+### About Nikhith
 
 Sai Nikhith is a Full Stack Software Development Skills Bootcamp Coach at Step8Up, delivering specialized training for Level 4 apprentices in the UK on full-stack software development. With 7 years of experience in software, web, and cloud-based application development, he brings expertise in Angular, .NET, Python-Django, microcontrollers, and database management (SQL, MySQL, MongoDB).
 
